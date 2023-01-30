@@ -1,3 +1,5 @@
+![logo](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
+
 <h1 align="center">Hi 👋, I'm Omkar Desai</h1>
 <h3 align="center">Data Scientist Loading...</h3>
 <img align = "right" alt="Coding" width="400" src ="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
