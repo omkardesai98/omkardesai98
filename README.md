@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Cardiovascular-Risk-Prediction](Cardiovascular-Risk-Prediction)
 
-- 🌱 I’m currently learning **machine learning & SQL**
+- 🌱 I’m currently learning **machine learning & SQL,Power BI**
 
 - 📫 How to reach me **omakrbkishor@gmail.com**
 
