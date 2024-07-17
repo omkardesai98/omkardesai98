@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Real time streaming pipelines
 
-- 🌱 I’m currently learning **machine learning & SQL,Power BI**
+- 🌱 I’m currently learning **Apache Spark Mongodb & Kafka**
 
 - 📫 How to reach me **omakrbkishor@gmail.com**
 
