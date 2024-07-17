@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkardesai98&label=Profile%20views&color=0e75b6&style=flat" alt="omkardesai98" /> </p>
 
-- 🔭 I’m currently working on [Cardiovascular-Risk-Prediction](Cardiovascular-Risk-Prediction)
+- 🔭 I’m currently working on Real time streaming pipelines
 
 - 🌱 I’m currently learning **machine learning & SQL,Power BI**
 
